@@ -1,3 +1,4 @@
+rom/
 build/
 server/c/intv-relay
 __pycache__/
